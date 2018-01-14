@@ -1,0 +1,130 @@
+body,
+table,
+.language,
+.NewsTitle
+{
+    background-color: #2e3436 !important;
+    background: none;
+    background-image: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+	color: #d3d7cf;
+}
+
+a {
+    color: #8ae234;
+}
+
+table.tabel95 {
+	width: 85%;
+}
+table.tabel95 > tbody > tr > td > table {
+	width: 100%;
+}
+
+
+table.tabel70 {
+	border: 1px solid black !important;
+	background-color: #3E4548 !important;
+}
+table.tabel70 > tbody > tr > td > table,
+table.tabel95,
+table.tabel90,
+td.language,
+td.NewsTitle,
+table.tabel95 > tbody > tr > td > table {
+	background-color: #3E4548 !important;
+}
+
+span#qsSeason a {
+	color: #8ae234 !important;
+	text-decoration: none;
+}
+select#qsiSeason option {
+	margin-left: 15px;
+}
+td.NewsTitle {
+	color: green !important;
+}
+td.language {
+	font-size: 300%;
+}
+td.newsDate {
+	font-size: 80%;
+}
+
+a.buttonDownload {
+	font-size: 150%;
+	padding: 15px;
+	color: #d3d7cf;
+	background: #005493;
+	border-top: none;
+	border-bottom: none !important;
+}
+a.buttonDownload:hover {
+	background: #005493;
+	box-shadow: 0 0 15px 5px #358DFF;
+	border-top: none;
+	border-bottom: none;
+}
+
+div[id^='M103396ScriptRootC'],
+img[src='http://www.addic7ed.com/images/tl.gif'],
+img[src='http://www.addic7ed.com/images/tr.gif'],
+img[src='http://www.addic7ed.com//images/bl.gif'],
+img[src='http://www.addic7ed.com/images/bl.gif'],
+img[src='http://www.addic7ed.com//images/br.gif'],
+img[src='http://www.addic7ed.com/images/br.gif'],
+img[src='http://www.addic7ed.com/images/movie_faq.png'],
+img[src='http://www.addic7ed.com/images/hdicon.png'],
+img[src='http://www.addic7ed.com/images/subtitle.gif'],
+img[src='http://www.addic7ed.com/images/edit.png'],
+img[src='http://www.addic7ed.com/images/edit.png'] + a,
+img[src="http://www.addic7ed.com/images/link.png"],
+img[src="http://www.addic7ed.com/images/download.png"],
+a[href^="javascript:saveFavorite"],
+a[href^="/badsub.php?id"],
+a[href^="/starttranslation.php?id="],
+#form1,
+iframe,
+div#fb-root,
+a[href="http://twitter.com/share"],
+a[href="http://twitter.com/share"] + a,
+fb\:like
+{
+    display: none;
+}
+
+body center:first-child {
+   display: none;
+}
+
+table[width='100%'] {
+    margin-top:50px;    
+}
+
+span#qsSeason a {
+    font-size: 28px;
+    color: black;
+}
+
+table {
+    border-spacing: 5px;
+    border-collapse: separate;
+}
+td { 
+    padding: 5px;
+}
+
+table
+{
+	border: 1px #1D2021 dashed;
+}
+center > table,
+td > table,
+form > table,
+table.tabel,
+table.tabel70,
+tbody, thead, th, td {
+   border: none;
+}

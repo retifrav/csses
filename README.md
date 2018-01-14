@@ -1,2 +1,3 @@
-# csses
-My CSSes for Stylish
+# CSSes
+
+My CSSes for Stylish browser extension.

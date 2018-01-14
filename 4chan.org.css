@@ -1,0 +1,43 @@
+body {
+    background-color: #2e3436 !important;
+    background: none;
+    background-image: none;
+    color: #d3d7cf !important;
+    font-family: Verdana, Geneva, Tahoma, sans-serif !important;
+}
+
+a,
+a.replylink {
+    color: #729fcf !important;
+}
+
+a.quotelink {
+    color: #8ae234 !important;
+}
+
+div.post.op,
+div.post.reply {
+    background-color: #272C2D !important;
+    border: 1px solid black !important;
+    border-radius: 2em;
+    padding: 10px !important;
+}
+
+div.post.preview,
+div.post.op.preview,
+div.post.reply.preview,
+div.post.reply.highlight,
+div.post.reply.highlight.preview {
+    border: 2px solid #8ae234 !important;
+}
+
+div.thread {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+div.boardBanner,
+div.boardNavMobile,
+div.sideArrows {
+    display: none;
+}
