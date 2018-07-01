@@ -19,7 +19,7 @@ div.post.op,
 div.post.reply {
     background-color: #272C2D !important;
     border: 1px solid black !important;
-    border-radius: 2em;
+    border-radius: 10px;
     padding: 10px !important;
 }
 
