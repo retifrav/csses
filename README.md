@@ -1,3 +1,3 @@
 # CSSes
 
-My CSSes for Stylish browser extension.
+My CSSes for <strike>Stylish</strike>Stylus browser extension.
