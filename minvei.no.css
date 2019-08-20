@@ -1,0 +1,11 @@
+span.word,
+span.tts,
+label,
+input {
+    font-family: Verdana;
+    font-size: 16px;
+}
+
+div.quiz_block {
+    margin: 0;
+}

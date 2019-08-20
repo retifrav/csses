@@ -1,0 +1,12 @@
+table.cblk > tbody > tr > td.chdr,
+table.cblk > tbody > tr > td.chdr2,
+table.cblk > tbody > tr > td.ctxt {
+    border: 1px solid #424242;
+}
+
+td#r_memo,
+table.cblk > tbody > tr > td.ctxt {
+    padding: 10px;
+    font-size: 100%;
+    font-family: Verdana;
+}
