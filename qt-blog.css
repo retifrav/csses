@@ -1,0 +1,38 @@
+/*
+    .*qt\.io\/blog\/.*
+*/
+
+body {
+    padding-top: 0;
+    margin-top: 0;
+}
+
+h2 {
+    margin-top: 15px;
+}
+
+p, ul {
+    font-size: 22px;
+}
+
+.b-blog-post-header__container.b-blog-post-header__container--narrow {
+    padding-top: 1em;
+    padding-bottom: 2em;
+}
+
+.row-fluid-wrapper.row-depth-1.row-number-1,
+.row-fluid-wrapper.row-depth-1.row-number-2,
+.b-blog-post__share--sticky,
+.c-floating-contact,
+.span3.widget-span.widget-type-cell.b-blog-post__sidebar,
+.row-fluid-wrapper.row-depth-1.row-number-7,
+.b-blog-post__share,
+.row-fluid-wrapper.row-depth-1.row-number-8,
+div#hs_cos_wrapper_module_156525825582399
+{
+    display: none;
+}
+
+.span9.widget-span.widget-type-cell {
+    width: 100%;
+}
