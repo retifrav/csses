@@ -7,12 +7,14 @@ body {
     margin-top: 0;
 }
 
-h2 {
-    margin-top: 15px;
+
+.b-blog-post__content h2 {
+    margin: 30px 0 15px;
+    font-size: 200%;
 }
 
 p, ul {
-    font-size: 22px;
+    font-size: 20px;
 }
 
 .b-blog-post-header__container.b-blog-post-header__container--narrow {
