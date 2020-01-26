@@ -1,0 +1,53 @@
+.header,
+.fsi-layout {
+    border-left: 1px black solid;
+    border-right: 1px black solid;
+}
+
+.issueId,
+.issue-summary {
+    font-weight: bold;
+}
+.issueId {
+    text-decoration: underline;
+}
+
+.jt-prop-title.c0,
+.jt-prop-title.c1,
+.jt-prop-title.c2,
+.jt-prop-title.c3,
+.jt-prop-title.c4,
+.jt-prop-title.c5,
+.jt-prop-title.c6,
+.jt-prop-title.c7,
+.jt-prop-title.c8,
+.jt-prop-title.c9,
+.jt-prop-title.c10,
+.jt-prop-title.c11,
+.jt-prop-title.c12,
+.jt-prop-title.c13,
+.jt-prop-title.c14,
+.jt-prop-title.c15,
+.jt-prop-title.c16,
+.jt-prop-title.c17,
+.jt-prop-title.c18,
+.jt-prop-title.c19,
+.jt-prop-title.c19
+{
+    padding: 2px 4px;
+}
+
+.wiki.text {
+    font-family: Verdana;
+    font-size: 14px;
+}
+
+.wiki.text > br {
+    margin-bottom: 10px;
+}
+
+.wiki code.inline-code {
+    background: #FFB6C1;
+    padding: 2px 6px;
+    border-radius: 5px;
+}
