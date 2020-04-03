@@ -1,0 +1,15 @@
+/*
+    app.slack.com
+*/
+
+div.p-client_container > div.p-client {
+    display: block;
+}
+
+div.p-workspace {
+    min-height: 100%;
+}
+
+div.p-top_nav {
+    display: none;
+}
