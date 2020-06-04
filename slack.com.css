@@ -13,3 +13,7 @@ div.p-client > div.p-workspace {
 div.p-client > div.p-top_nav {
     display: none;
 }
+
+div.p-workspace-layout {
+    height: 100%;
+}

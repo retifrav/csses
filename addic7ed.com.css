@@ -128,3 +128,7 @@ table.tabel70,
 tbody, thead, th, td {
    border: none;
 }
+
+.tablecorner {
+    display: none;
+}
