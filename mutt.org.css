@@ -1,0 +1,9 @@
+/* mutt.org/manual */
+
+body {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 30px;
+    font-family: Verdana;
+    box-shadow: 0 0 15px -5px #000;
+}
