@@ -1,0 +1,44 @@
+/* newsinenglish.no */
+
+div.entry-content p {
+    font-family: Verdana;
+    font-size: 17px;
+    line-height: 1.5;
+    padding: 10px 0;
+}
+
+.entry-title, .post-info, .entry-content, #disqus_thread {
+    padding: 0 15px;
+}
+
+.breadcrumb {
+	margin-bottom: 15px;
+}
+
+.content-sidebar #content-sidebar-wrap,
+.full-width-content #content-sidebar-wrap,
+.sidebar-content #content-sidebar-wrap,
+.content-sidebar #content,
+.sidebar-content #content {
+	width: 100%;
+}
+
+#content-sidebar-wrap {
+    float: unset;
+}
+
+#content {
+    padding: unset;
+}
+
+#sidebar {
+    display: none;
+}
+
+#cookie-notice {
+    display: none;
+}
+
+.content-sidebar #inner {
+	background: unset;
+}
