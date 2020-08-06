@@ -1,0 +1,39 @@
+/*
+    Просто, блядь, пиздец, какие уёбищные у Фесбука стили.
+    Особенно имена классов охуенные.
+    Нагенерили какой-то срани, я ебал.
+*/
+
+#u_0_c,
+#u_0_e {
+    display: none;
+}
+
+#globalContainer {
+    width: 100% !important;
+}
+
+.hasLeftCol #leftCol,
+#rightCol {
+    display: none;
+}
+
+#contentCol._1ql0 {
+    width: 100% !important;
+}
+
+#contentArea ._5pbx {
+    font-size: 18px;
+}
+
+#contentArea._14i5 {
+    right: unset;
+}
+
+#contentArea._1qkx {
+    width: 100% !important;
+}
+
+._5v3q {
+    padding: 15px;
+}
