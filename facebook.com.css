@@ -13,7 +13,9 @@
     width: 100% !important;
 }
 
+#pagelet_bluebar,
 .hasLeftCol #leftCol,
+#leftCol,
 #rightCol {
     display: none;
 }
