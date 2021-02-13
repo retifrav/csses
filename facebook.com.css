@@ -4,9 +4,16 @@
     Нагенерили какой-то срани, я ебал.
 */
 
-#u_0_c,
-#u_0_e {
+div[id^="u_0_c"],
+div[id^="u_0_d"],
+div[id^="u_0_e"] {
     display: none;
+}
+
+body,
+#u_0_14,
+#u_0_15 {
+    margin: 0 !important;
 }
 
 #globalContainer {
@@ -15,7 +22,6 @@
 
 #pagelet_bluebar,
 .hasLeftCol #leftCol,
-#leftCol,
 #rightCol {
     display: none;
 }
