@@ -1,0 +1,24 @@
+.thing.link {
+    margin: 15px 0;
+    padding-bottom: 10px;
+    border-bottom: 1px solid black;
+}
+
+div.sr-list,
+a#sr-more-link,
+div.listing-chooser,
+div.side,
+div.footer-parent {
+    display: none;
+}
+
+body {
+    width: 60%;
+    margin: 0 auto;
+}
+
+body[class] > .content, body.listing-page[class] > .content,
+body.with-listing-chooser > div.content,
+body.comments-page > div.content {
+    margin: 0;
+}
