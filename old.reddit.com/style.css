@@ -8,7 +8,8 @@ div.sr-list,
 a#sr-more-link,
 div.listing-chooser,
 div.side,
-div.footer-parent {
+div.footer-parent,
+#eu-cookie-policy {
     display: none;
 }
 
