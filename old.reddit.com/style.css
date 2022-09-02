@@ -18,8 +18,21 @@ body {
     margin: 0 auto;
 }
 
+/*
 body[class] > .content, body.listing-page[class] > .content,
 body.with-listing-chooser > div.content,
 body.comments-page > div.content {
     margin: 0;
+}
+*/
+
+body[class] > div.content {
+    margin-top: 2.5em;
+}
+
+#header {
+    height: unset;
+}
+#header-bottom-left {
+    padding-top: 0;
 }
