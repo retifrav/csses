@@ -14,7 +14,7 @@ div.footer-parent,
 }
 
 body {
-    width: 60%;
+    max-width: 1280px;
     margin: 0 auto;
 }
 
@@ -27,7 +27,8 @@ body.comments-page > div.content {
 */
 
 body[class] > div.content {
-    margin-top: 2.5em;
+    width: 90%;
+    margin: 2.5em auto 0;
 }
 
 #header {
@@ -35,4 +36,8 @@ body[class] > div.content {
 }
 #header-bottom-left {
     padding-top: 0;
+}
+
+div[data-author="AutoModerator"] {
+    display: none;
 }
