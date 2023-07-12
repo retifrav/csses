@@ -1,0 +1,16 @@
+/*
+    steamcommunity.com
+*/
+
+.forum_op .content,
+.commentthread_comment_text {
+    font-family: Verdana;
+    font-size: 15px;
+    line-height: 1.4;
+}
+
+b { font-weight: bold; }
+
+div.bb_code {
+    font-size: 14px;
+}
